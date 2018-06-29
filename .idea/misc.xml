@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../dubbo-b" />
+    <file type="web" url="file://$PROJECT_DIR$/../dubbo-dubbo-2.5.3/dubbo-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/../itcast-usermanage" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-cart" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-manage/taotao-manage-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-order" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-search" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-sso" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-sso-query-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../taotao-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-a/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-b/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-b-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo-dubbo-2.5.3/pom.xml" />
+        <option value="$PROJECT_DIR$/../hessian-lite/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-solrj/pom.xml" />
+        <option value="$PROJECT_DIR$/../itcast-usermanage/pom.xml" />
+        <option value="$PROJECT_DIR$/../opensesame/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-sso-query-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-sso-query-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../taotao-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Gradle</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Probable bugsGradle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

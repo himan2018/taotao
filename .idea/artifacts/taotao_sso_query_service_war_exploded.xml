@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="taotao-sso-query-service:war exploded">
+    <output-path>$PROJECT_DIR$/../taotao-sso-query-service/target/taotao-sso-query-service</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="taotao-sso-query-service" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../taotao-sso-query-service/target/taotao-sso-query-service/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="taotao-sso-query-service/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../itcast-usermanage" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-cart" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-manage" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-manage/taotao-manage-pojo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-manage/taotao-manage-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-order" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-search" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-sso" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-sso-query-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-sso-query-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../taotao-web" vcs="svn" />
+  </component>
+</project>
